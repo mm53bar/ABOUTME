@@ -14,6 +14,8 @@ Communication is the foundation of effective teams. Meeting and talking helps us
 
 By default, we will have a one-on-one (1:1) chat every week for at least 30 minutes. These meetings are designed to give you a dedicated time and place to ask anything and everything. Don't be surprised if I encourage you to do this over a good coffee/tea/beer.
 
+Because these meetings are about you, feel free to reschedule or cancel one if you don't have anything to talk about that week. Because we meet so regularly, missing a week doesn't have much impact. For my part, I might have to reschedule sometimes but I won't cancel a meeting.
+
 - These meetings are for you to set the agenda. What would you like to talk about? What’s going well? What’s bugging you? How can things go even better?
 - If I'm worried about your performance, I will let you know in your 1:1s. That means I won't talk to you about your performance (outside of scheduled, company-wide performance reviews) if things are going well. If you have concerns, let me know and we'll talk through it.
 - I don't need to get a status report from you unless that's what you want to talk about. I'm interested in how your project is going but I'm not using this chat to make sure you're busy.
