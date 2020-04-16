@@ -2,7 +2,7 @@
 
 This is a brief introduction to how I prefer to work as a software development manager. By writing this down, I'm hoping that you'll have a headstart in understanding how I like to work. It'll hopefully reduce your anxiety and build some trust as you get to know a bit more about me. However:
 
-- It won't replace getting to know each other through 1:1s, day-to-day chats, etc.
+- It won't replace getting to know each other through one-on-one (1:1) meetings, day-to-day chats, etc.
 - Like any documentation, this is constantly changing as my approach evolves and people like you provide me with feedback.
 - It's easy to document the way I think I am but that might not be reflected in the way I act. If you see a discrepancy between this and my behaviour, please tell me. Good software is deterministic but people aren't as consistent.
 
@@ -12,7 +12,7 @@ By the way, I'm a [Green](https://my-personality-test.com/true-colours/green) (b
 
 Communication is the foundation of effective teams. Meeting and talking helps us build a rapport. And a good rapport brings trust and respect. Once we have that, everything else gets easier.
 
-By default, we will have a one-on-one (1:1) chat every week for at least 30 minutes. These meetings are designed to give you a dedicated time and place to ask anything and everything. Don't be surprised if I encourage you to do this over a good coffee/tea/beer.
+By default, we will have a 1:1 chat every week for at least 30 minutes. These meetings are designed to give you a dedicated time and place to ask anything and everything. Don't be surprised if I encourage you to do this over a good coffee/tea/beer.
 
 Because these meetings are about you, feel free to reschedule or cancel one if you don't have anything to talk about that week. Because we meet so regularly, missing a week doesn't have much impact. For my part, I might have to reschedule sometimes but I won't cancel a meeting.
 
