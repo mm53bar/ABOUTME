@@ -21,7 +21,6 @@ Because these meetings are about you, feel free to reschedule or cancel one if y
 - I don't need to get a status report from you unless that's what you want to talk about. I'm interested in how your project is going but I'm not using this chat to make sure you're busy.
 - Urgent matters should not wait for a 1:1. Don't try to book time in my calendar - just message me on Slack and I'll find time for us to chat face-to-face.
 - If you ask me how to do something, don't be shocked if I don't directly answer your question. Giving you the answer doesn't help you learn. And it's not like I'm perfect either. Expect a healthy dose of [Socratic questions](https://medium.com/@federicorenzo/the-socratic-method-of-coaching-2024733626a9) in response.
-- I like to brainstorm with others. If the 1:1 feels over but there is remaining time, I will probably be thinking through some things that we can discuss.
 
 ## My Job
 
@@ -44,11 +43,6 @@ Note: I'm sharing this so that you can understand me a bit more. Just because th
   - Change is a constant and even more so in software development. Being able to react to change is good but planning for change and building that plan into the systems is much better.
 - Education over Enforcement
   - Having the information and access we need makes it faster for us to do our jobs. Even more so when there is lots of empowerment and autonomy. Slow companies build gates to control information and access. Fast companies give increased access to their people but train them to use it well.
-
-This has also led me to understand some things that I don't value.
-
-- Maintaining
-  - I quickly lose interest in something after I've built/implemented/learned it. You might notice that I try to set up systems that are self-sustaining so that I can move on to something new.
 
 ## I Default to High Autonomy
 
