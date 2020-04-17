@@ -19,7 +19,7 @@ Because these meetings are about you, feel free to reschedule or cancel one if y
 - These meetings are for you to set the agenda. What would you like to talk about? What’s going well? What’s bugging you? How can things go even better?
 - If I'm worried about your performance, I will let you know in your 1:1s. That means I won't talk to you about your performance (outside of scheduled, company-wide performance reviews) if things are going well. If you have concerns, let me know and we'll talk through it.
 - I don't need to get a status report from you unless that's what you want to talk about. I'm interested in how your project is going but I'm not using this chat to make sure you're busy.
-- Urgent matters should not wait for a 1:1. Don't try to book time in my calendar - just message me on Slack and I'll find time for us to chat face-to-face.
+- Urgent matters should not wait for a 1:1. Don't try to book time in my calendar - just message me and I'll find time for us to chat face-to-face.
 - If you ask me how to do something, don't be shocked if I don't directly answer your question. Giving you the answer doesn't help you learn. And it's not like I'm perfect either. Expect a healthy dose of [Socratic questions](https://medium.com/@federicorenzo/the-socratic-method-of-coaching-2024733626a9) in response.
 
 ## My Job
