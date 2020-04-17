@@ -54,7 +54,7 @@ The #1 thing to know about me is that my default management mode is to let you h
 - Everyone is different, and I realize some folks need more guidance than others. If you need more direction from me, please let me know as soon as possible. I will do my best to tailor the guidance I give to your experience level. If there's a mismatch in expectations then we can use our next 1:1 to get on the same page.
 - I’ll get better at finding this line as we get to know each other better.
 
-## Inspiration
+## Learning and Growing
 
 I read a lot. Mostly articles but also books. I get most of my articles through weekly newsletters that I highly recommend you subscribe to:
 
