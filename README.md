@@ -22,7 +22,7 @@ Because these meetings are about you, feel free to reschedule or cancel one if y
 - Urgent matters should not wait for a 1:1. Don't try to book time in my calendar - just message me and I'll find time for us to chat face-to-face.
 - If you ask me how to do something, don't be shocked if I don't directly answer your question. Giving you the answer doesn't help you learn. And it's not like I'm perfect either. Expect a healthy dose of [Socratic questions](https://medium.com/@federicorenzo/the-socratic-method-of-coaching-2024733626a9) in response.
 
-## How I work
+## Working with me
 
 I'm a believer in servant leadership where managers work for their direct reports. Your role on the team is to ship great software that solves problems for our customers. My role on the team is to make sure you have the skills, space, context, and urgency to do that in the best possible way.
 
@@ -31,7 +31,7 @@ I'm a believer in servant leadership where managers work for their direct report
 - Context - you'll do a better job if you understand why you're doing it. Being busy is not the goal. I can help with that.
 - Urgency - every feature we build is just a hypothesis, an idea we have that might solve a problem. The illusion of certainty tells us that we have a project when we really have an experiment. We'll find the right solutions if we validate our hypotheses sooner. Ship it!
 
-## How I expect you to work
+## Working with your team
 
 Working effectively in a team is about much more than just writing code. It's about having the right attitude and approach to your code and the rest of your team.
 
