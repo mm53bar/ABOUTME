@@ -58,16 +58,16 @@ The #1 thing to know about me is that my default management mode is to let you h
 
 I read a lot. Mostly articles but also books. I get most of my articles through weekly newsletters that I highly recommend you subscribe to:
 
-- https://softwareleadweekly.com/
-- https://labnotes.org/
-- https://changelog.com/
+- <https://softwareleadweekly.com/>
+- <https://labnotes.org/>
+- <https://changelog.com/>
 
 There are a few articles that have stuck with me over time. I reference them a lot so it might be useful to read them:
 
-- https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
-- https://dannorth.net/2010/08/30/introducing-deliberate-discovery/
-- https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
-- http://www.paulgraham.com/makersschedule.html
+- <https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/>
+- <https://dannorth.net/2010/08/30/introducing-deliberate-discovery/>
+- <https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html>
+- <http://www.paulgraham.com/makersschedule.html>
 
 There are a few books that have heavily impacted my approach to managing. They can be a bit boring to read if you're used to learning about coding techniques. But if you're starting to wonder about what's important to you in a workplace, these books could help you figure that out. Let's talk about them in your next 1:1.
 
@@ -76,4 +76,4 @@ There are a few books that have heavily impacted my approach to managing. They c
 - Creativity Inc., Ed Catmull
 - The Advantage, Patrick Lencioni
 
-Finally, I keep an ongoing Github gist with notes, quotes, and insights that I've read and want to remember. It's always growing. You can find it at https://gist.github.com/mm53bar/b78988ef8d968ecf6ce04e1fa36330d7
+Finally, I keep an ongoing Github gist with notes, quotes, and insights that I've read and want to remember. It's always growing. You can find it at <https://gist.github.com/mm53bar/b78988ef8d968ecf6ce04e1fa36330d7>
